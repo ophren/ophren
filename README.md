@@ -1,5 +1,5 @@
 
-<img src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg" alt="cover" width="800" height="240"> 
+<img src="https://i2.wp.com/files.123freevectors.com/wp-content/original/114193-orange-and-yellow-stripes-background-vector.jpg?w=800&q=95" alt="cover" width="800" height="240"> 
 
 ### Hi there 👋
 
