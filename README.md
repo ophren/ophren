@@ -1,5 +1,5 @@
 
-<img src="https://codersera.com/blog/wp-content/uploads/2020/10/javascript-frameworks.jpg" alt="cover" width="1000" height="300"> 
+<img src="https://codersera.com/blog/wp-content/uploads/2020/10/javascript-frameworks.jpg" alt="cover" width="1000" height="240"> 
 
 ### Hi there 👋
 
