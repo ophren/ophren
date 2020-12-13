@@ -8,4 +8,4 @@ I code to create great apps that make a change, to expand my understanding of co
 
 In my free time, I enjoy powerlifting (especially Bench Press), meeting new people and working on personal projects, mostly related to language learning, arts and coding. 
 
-Feel free to contact me! YOLO
+Feel free to contact me!
