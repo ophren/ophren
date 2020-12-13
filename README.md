@@ -1,5 +1,5 @@
 
-<img src="https://img.freepik.com/free-vector/blue-cyber-future-technology-concept-background_42077-488.jpg?size=626&ext=jpg" alt="cover" width="400" height="220"> 
+<img src="https://www.learnreligions.com/thmb/ti0PiJBc-jq1H65GUcJlPv1ikuk=/1879x1409/smart/filters:no_upscale()/GettyImages-986460262-5c01b5b446e0fb000114d715.jpgg" alt="cover" width="400" height="220"> 
 
 ### Hi there 👋
 
