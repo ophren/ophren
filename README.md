@@ -1,5 +1,5 @@
 
-<img src="https://i2.wp.com/files.123freevectors.com/wp-content/original/114193-orange-and-yellow-stripes-background-vector.jpg?w=800&q=95" alt="cover" width="800" height="240"> 
+<img src="https://www.learnreligions.com/thmb/ti0PiJBc-jq1H65GUcJlPv1ikuk=/1879x1409/smart/filters:no_upscale()/GettyImages-986460262-5c01b5b446e0fb000114d715.jpg" alt="cover" width="800" height="240"> 
 
 ### Hi there 👋
 
