@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi 👋
 
 I am a <b>Full-Stack Software Engineer</b>, experienced with JavaScript technologies. Expert in React, Redux, Node, Express, Mongo. I enjoy getting familiar with new technologies and working on ambitious projects.
 
