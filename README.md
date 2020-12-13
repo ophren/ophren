@@ -1,7 +1,7 @@
 
 <img src="https://codersera.com/blog/wp-content/uploads/2020/10/javascript-frameworks.jpg" alt="cover" width="1000" height="240"> 
 
-### Hi there 👋
+<div style = {text-align:center}>### Hi there 👋</div>
 
 I am a Full-Stack Software Engineer, experienced with JavaScript technologies. Expert in React, Redux, Node, Express, Mongo. I enjoy getting familiar with new technologies and working on ambitious projects.
 
