@@ -1,5 +1,5 @@
 
-<img src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg" alt="cover" width="1000" height="240"> 
+<img src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg" alt="cover" width="800" height="240"> 
 
 ### Hi there 👋
 
